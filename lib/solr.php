@@ -13,7 +13,8 @@
 # todo:
 # 	allow setting different query params in contructor
 
-define ("SERVER", 'search.tki.org.nz');
+define ("SERVER", 'eztki-solr-staging.cwa.co.nz');
+
 
 class Solr {
 	private	$count;
